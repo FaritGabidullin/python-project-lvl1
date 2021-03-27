@@ -11,4 +11,4 @@ publish:
 	poetry publish --dry-run
 
 package-install:
-	python3 -m pip install --user dist/*.whl.
+	python -m pip install dist/hexlet_code-1.1.5-py3-none-any.whl
