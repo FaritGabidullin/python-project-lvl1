@@ -35,7 +35,7 @@ def parity_check_game():
         if answer.lower() == correct_answer(parity):
             print('Correct')
         else:
-            template_message = "'{}' is wrong answer./nLet's try again, {}!"
+            template_message = "'{}' is wrong answer.\nLet's try again, {}!"
             print(template_message.format(answer, player_name))
             need_next_question = False
     if need_next_question:
