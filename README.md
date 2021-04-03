@@ -10,10 +10,18 @@ asciinema... Doesn't work on my os, but I found a solution:
 
 ![image](https://user-images.githubusercontent.com/43521374/113336046-17119280-9326-11eb-8004-874d5049b719.png)
 
-Победа:
+Победа brain-even:
 
 ![image](https://user-images.githubusercontent.com/43521374/113335998-05c88600-9326-11eb-9a70-60568d3f50c1.png)
 
-Проигрыш:
+Проигрыш brain-even:
 
 ![image](https://user-images.githubusercontent.com/43521374/113336013-0bbe6700-9326-11eb-8c74-fe8223ef5ed3.png)
+
+Победа brain-calc:
+
+![image](https://user-images.githubusercontent.com/43521374/113484485-d2facb00-94a8-11eb-839b-5c4e226cb25b.png)
+
+Проигрыш brain-calc:
+
+![image](https://user-images.githubusercontent.com/43521374/113484478-cb3b2680-94a8-11eb-9f13-1056ca98c7dc.png)
