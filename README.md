@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/df66c0cbbeca7d822f23/maintainability)](https://codeclimate.com/github/FaritGabidullin/python-project-lvl1/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/df66c0cbbeca7d822f23/test_coverage)](https://codeclimate.com/github/FaritGabidullin/python-project-lvl1/test_coverage)
 
-asciinema... Doesn't work on my os, but I found a solution:
+asciinema... Doesn't work on my os, but I found a simple solution:
 
 Установка:
 
