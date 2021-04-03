@@ -26,8 +26,10 @@ def engine(instruction, game):
         if answer.lower() == correct_answer(one_game_object):
             print('Correct')
         else:
-            template_message = "'{}' is wrong answer.\nLet's try again, {}!"
-            print(template_message.format(answer, player_name))
+            template_message = "'{}' is wrong answer ;(. Correct answer was {}."
+            print(template_message.format(
+                answer, correct_answer(one_game_object)))
+            print("Let's try again, {}!".format(player_name))
             need_next_question = False
     if need_next_question:
         print('Congratulations, ' + player_name + '!')
