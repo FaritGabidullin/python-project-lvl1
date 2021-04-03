@@ -24,4 +24,4 @@ asciinema... Doesn't work on my os, but I found a simple solution:
 
 Проигрыш brain-calc:
 
-![image](https://user-images.githubusercontent.com/43521374/113484478-cb3b2680-94a8-11eb-9f13-1056ca98c7dc.png)
+![image](https://user-images.githubusercontent.com/43521374/113487381-1b6db500-94b8-11eb-9026-208f6cfce070.png)
