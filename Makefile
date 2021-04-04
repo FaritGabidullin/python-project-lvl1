@@ -14,7 +14,7 @@ publish:
 	poetry publish --dry-run
 
 package-install:
-	pip install --force-reinstall dist/hexlet_code-0.7.0-py3-none-any.whl
+	pip install --force-reinstall dist/hexlet_code-0.8.0-py3-none-any.whl
 
 lint:
 	poetry run flake8 brain_games
