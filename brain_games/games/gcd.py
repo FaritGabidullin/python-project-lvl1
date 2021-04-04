@@ -6,7 +6,7 @@ from ..game_engine import engine
 
 def start_game():
     def instruction():
-        return 'What is the result of the expression?'
+        return 'Find the greatest common divisor of given numbers.'
 
     def gcd_game():
         random.seed()
