@@ -32,3 +32,11 @@ asciinema... Doesn't work on my os, but I found a simple solution:
 Проигрыш brain-gcd:
 
 ![image](https://user-images.githubusercontent.com/43521374/113513070-0ea89a00-9568-11eb-9ff5-f8c860e5e30f.png)
+
+Победа progression:
+
+![image](https://user-images.githubusercontent.com/43521374/113518392-59390f00-9586-11eb-8257-a1b05239412d.png)
+
+Проигрыш progression:
+
+![image](https://user-images.githubusercontent.com/43521374/113518402-67872b00-9586-11eb-8834-b9543b7107e1.png)
