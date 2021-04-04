@@ -25,3 +25,11 @@ asciinema... Doesn't work on my os, but I found a simple solution:
 Проигрыш brain-calc:
 
 ![image](https://user-images.githubusercontent.com/43521374/113487381-1b6db500-94b8-11eb-9026-208f6cfce070.png)
+
+Победа brain-gcd:
+
+![image](https://user-images.githubusercontent.com/43521374/113513011-c12c2d00-9567-11eb-8e78-ef120f6a77d8.png)
+
+Проигрыш brain-gcd:
+
+![image](https://user-images.githubusercontent.com/43521374/113513070-0ea89a00-9568-11eb-9ff5-f8c860e5e30f.png)
