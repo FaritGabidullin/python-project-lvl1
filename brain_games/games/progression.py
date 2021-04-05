@@ -7,7 +7,7 @@ def start_game():
     def instruction():
         return 'What number is missing in the progression?'
 
-    def gcd_game():
+    def progression_game():
         random.seed()
         numbers_count = random.randint(5, 10)
         progresser = random.randint(1, 10)
@@ -21,4 +21,4 @@ def start_game():
             else:
                 question += " " + str(first_number + progresser * iterator)
         return {'question': question, 'answer': answer}
-    engine(instruction(), gcd_game)
+    engine(instruction(), progression_game)
