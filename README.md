@@ -40,3 +40,11 @@ asciinema... Doesn't work on my os, but I found a simple solution:
 Проигрыш progression:
 
 ![image](https://user-images.githubusercontent.com/43521374/113518402-67872b00-9586-11eb-8834-b9543b7107e1.png)
+
+Победа prime:
+
+![image](https://user-images.githubusercontent.com/43521374/113756521-c4fbb300-9711-11eb-9e15-8d7a34e387db.png)
+
+Проигрыш prime:
+
+![image](https://user-images.githubusercontent.com/43521374/113756498-bca37800-9711-11eb-8864-369cf3f9e3c3.png)
