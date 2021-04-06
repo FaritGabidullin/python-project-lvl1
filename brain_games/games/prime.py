@@ -11,7 +11,6 @@ def prime_game():
         while d * d <= n and n % d != 0:
             d += 2
         return d * d > n
-    random.seed()
     question_number = random.randint(1, 99)
     answer = 'no'
     if isPrime(question_number):
