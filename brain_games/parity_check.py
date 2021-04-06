@@ -3,11 +3,6 @@ import random
 import prompt
 
 
-def welcome_user():
-    print('Welcome to the Brain Games!')
-    return prompt.string('May I have your name? ')
-
-
 def new_question():
     random.seed()
     parity = random.randint(1, 99)
@@ -22,7 +17,8 @@ def correct_answer(parity):
 
 
 def parity_check_game():
-    player_name = welcome_user()
+    print('Welcome to the Brain Games!')
+    player_name = prompt.string('May I have your name? ')
     instruction = 'Answer "yes" if the number is even, otherwise answer "no".'
     print("Hello, {}\n{}".format(player_name, instruction))
     need_next_question = True
