@@ -21,4 +21,4 @@ def calc_game():
 
 def start_game():
     instruction = 'What is the result of the expression?'
-    engine(instruction(), calc_game)
+    engine(instruction, calc_game)

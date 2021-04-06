@@ -20,4 +20,4 @@ def progression_game():
 
 def start_game():
     instruction = 'What number is missing in the progression?'
-    engine(instruction(), progression_game)
+    engine(instruction, progression_game)

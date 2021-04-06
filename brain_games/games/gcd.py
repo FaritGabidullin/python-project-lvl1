@@ -15,4 +15,4 @@ def gcd_game():
 
 def start_game():
     instruction = 'Find the greatest common divisor of given numbers.'
-    engine(instruction(), gcd_game)
+    engine(instruction, gcd_game)
