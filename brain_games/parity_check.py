@@ -23,8 +23,8 @@ def correct_answer(parity):
 
 def parity_check_game():
     player_name = welcome_user()
-    print("Hello, {}".format(player_name))
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+    instruction = 'Answer "yes" if the number is even, otherwise answer "no".'
+    print("Hello, {}\n{}".format(player_name, instruction))
     need_next_question = True
     step = 0
     while need_next_question and step < 3:

@@ -9,8 +9,7 @@ def welcome_user():
 
 def engine(instruction, game):
     player_name = welcome_user()
-    print("Hello, {}".format(player_name))
-    print(instruction)
+    print("Hello, {}\n{}".format(player_name, instruction))
     need_next_question = True
     step = 0
     while need_next_question and step < 3:
