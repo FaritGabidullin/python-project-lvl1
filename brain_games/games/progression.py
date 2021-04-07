@@ -4,7 +4,7 @@ from ..game_engine import engine
 
 
 def progression_game():
-    numbers_count = random.randint(5, 10)
+    numbers_count = random.randint(6, 10)
     progresser = random.randint(1, 10)
     position_for_find = random.randint(0, numbers_count - 1)
     first_number = random.randint(1, 20)
