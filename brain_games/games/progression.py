@@ -12,9 +12,9 @@ def progression_game():
     for iterator in range(0, numbers_count):
         if iterator == position_for_find:
             answer = str(first_number + progresser * iterator)
-            question += " .."
+            question += ".. "
         else:
-            question += " " + str(first_number + progresser * iterator)
+            question += str(first_number + progresser * iterator) + " "
     return {'question': question, 'answer': answer}
 
 
